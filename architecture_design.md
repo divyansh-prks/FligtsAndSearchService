@@ -108,3 +108,32 @@ Inbetwen manny things happen today
 
 
 sitting -2 
+
+Search and flights service 
+
+
+Create Flights 
+Delete Flights 
+Update Flights
+Search for flights
+- Based on multiple filtration criteria we can search for flights 
+- pagination 
+
+
+
+Npm file generate 
+We will not write model view controller folder 
+
+We will do test works 
+
+We will be having our 
+
+src/ 
+    index.js //server
+    Models /
+    Controllers /
+    Middlewares /
+     Services / 
+    Utils / 
+    Config / db configuration 
+Tests / [later]
