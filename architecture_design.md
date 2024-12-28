@@ -137,3 +137,7 @@ src/
     Utils / 
     Config / db configuration 
 Tests / [later]
+
+
+
+We will be importing dotenv file in another style 

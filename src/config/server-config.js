@@ -1,3 +1,4 @@
+//here we are importing dotenv in different way 
 const dotenv = require('dotenv');
 
 dotenv.config();
